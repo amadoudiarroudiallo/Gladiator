@@ -34,7 +34,11 @@ body{
     margin-top: -4px;
 }
 
-<<<<<<< HEAD
+nav .containe ul{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
 .containe li, a{
     list-style: none;
     font-size: 25px;
@@ -58,5 +62,3 @@ footer{
     color: white;
     padding: 20px;
 }
-=======
->>>>>>> 2cd5d0c065f8d403509b322c93543fcf3e593c15
