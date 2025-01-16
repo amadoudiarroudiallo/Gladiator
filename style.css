@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sec1{
+    background-color: #00ffff;
+    height: 50vh;
+}
+.sec1 .contenu{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.texte p{
+    color: grey;
+    font-size: 18px;
+}
+.texte h1{
+    color: rgb(61, 32, 192);
+    font-size: 36px;
+}
+ .contenu .image{
+    background-size: cover;
+    background-position: center;
+
+    margin-top: 20px; 
+}
+.contenu .image h4{
+    margin-left: 60px;
+    color: green;
+    font-size: 28px;
+    margin-top: -4px;
+}
+
